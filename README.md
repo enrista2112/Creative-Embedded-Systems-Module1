@@ -1,6 +1,6 @@
-# Creative-Embedded-Systems-Module1
+# Creative Embedded Systems Module 1: Generative Art
 
-Module 1: Generative Art
+Link to Blog Post: https://flashy-tellurium-248.notion.site/Module-1-Generative-Art-11469c3732868043beb4c3fa4378121f
 In my Creative Embedded Systems class, for our first module, each student wrote a single ESP32 program that visualized a design of their choice on the screen of an ESP32. The theme of this module was ‘Fall’. The goal of this is to create a generative art installation in the fifth floor Milstein. 
 
 For this project, the design of my choice was a jack o'lantern with leaves falling in the background. The pumpkin's face is drawn progressively with each zoom, starting with the pumpkin shape, then adding the eyes, nose, and mouth. As the zoom reaches its maximum, the eyes, nose, and mouth appear "lit" by filling them with a lighter orange color. Randomly positioned leaves of different fall colors (red, green, orange, yellow) are drawn on the background each time the zoom progresses.
