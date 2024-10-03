@@ -8,14 +8,14 @@ For this project, the design of my choice was a jack o'lantern with leaves falli
 
 
 Required Libraries:
-Adafruit_GFX.h
-Adafruit_ST7789.h
-SPI.h
+* Adafruit_GFX.h
+* Adafruit_ST7789.h
+* SPI.h
 
 Hardware:
-ESP32 TTGO T-display
-Lipo battery
-USB-C
+* ESP32 TTGO T-display
+* Lipo battery
+* USB-C
 
 Components:
 Setup: The TFT display is initialized in the setup() function. The screen is cleared to black (tft.fillScreen(ST77XX_BLACK)), and the display rotation is set.
